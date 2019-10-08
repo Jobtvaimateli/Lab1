@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextChangingButton.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) { MainText.setText("Noreciau suzinoti savo ivertima :)");
+            public void onClick(View v) { MainText.setText("Noreciau suzinoti savo ivertima :) ");
             }
         });
         RedColorButton.setOnClickListener(new View.OnClickListener() {
